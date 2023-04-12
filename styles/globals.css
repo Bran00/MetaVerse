@@ -40,16 +40,16 @@
   top: 0px;
   right: 0px;
 
-  background: #7aebfb;
+  background: hsl(0, 66%, 44%);
   filter: blur(190px);
 }
 
 .glassmorphism {
-  background: rgba(255, 255, 255, 0.25);
-  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  background: hsla(0, 2%, 88%, 0.25);
+  box-shadow: 0 8px 32px 0 hsla(236, 63%, 33%, 0.369);
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
-  border: 1px solid rgba(255, 255, 255, 0.18);
+  border: 1px solid hsla(0, 0%, 100%, 0.18);
 }
 
 .gradient-03 {
@@ -59,7 +59,7 @@
   left: 20%;
   top: 5%;
 
-  background: rgba(149, 66, 232, 0.35);
+  background: hsla(249, 77%, 54%, 0.651);
   filter: blur(175px);
   transform: rotate(-114.2deg);
 }
@@ -71,7 +71,7 @@
   left: 30%;
   top: 10%;
 
-  background: rgba(45, 72, 152, 0.75);
+  background: hsla(192, 73%, 47%, 0.788);
   filter: blur(200px);
   transform: rotate(-53.13deg);
 }
@@ -79,8 +79,8 @@
 .gradient-05 {
   background: linear-gradient(
     180deg,
-    rgba(255, 255, 255, 0.04) 0%,
-    rgba(255, 255, 255, 0) 100%
+    hsla(0, 49%, 59%, 0.04) 0%,
+    hsla(0, 0%, 100%, 0) 100%
   );
 }
 
@@ -91,7 +91,7 @@
   left: 0px;
   top: 0px;
 
-  background: #8d39a3;
+  background: hsl(288, 48%, 43%);
   filter: blur(175px);
 }
 
@@ -102,6 +102,6 @@
   left: 37%;
   bottom: 0;
 
-  background: #65c4fa;
+  background: hsl(202, 94%, 69%);
   filter: blur(150px);
 }
