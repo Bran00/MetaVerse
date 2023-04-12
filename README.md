@@ -18,7 +18,7 @@ Build to taste our abilities in Next emphasizing about metaversus!
 
 ### Live Version 
 
-<a href="#">Click here</a>
+<a href="https://github.com/Bran00/MetaVerse#:~:text=meta%2Dverse%2Dalpha.vercel.app">Click here</a>
 
 ### Technologies Used
 
