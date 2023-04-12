@@ -1,6 +1,6 @@
 ## Metaversus
 
-![portfolio!](src/portifolio.gif)
+![metaversu!](public/metaversu.gif)
 
 
 ### This project
